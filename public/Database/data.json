@@ -1,0 +1,216 @@
+{
+  "database": [
+    {
+      "home": {
+        "workList": [
+          {
+            "img": "../home/Activity.png",
+            "title": "Grow Your Business",
+            "desc": "We help identify the best ways to improve your business"
+          },
+          {
+            "img": "../home/Heart.png",
+            "title": "Improve brand loyalty",
+            "desc": "We help identify the best ways to improve your business"
+          },
+          {
+            "img": "../home/Work.png",
+            "title": "Improve Business Model",
+            "desc": "We help identify the best ways to improve your business"
+          }
+        ],
+        "counter": [
+          {
+            "img": "../home/follower.png",
+            "count": "240452",
+            "title": "Followers"
+          },
+          {
+            "img": "../home/problem.png",
+            "count": "6300",
+            "title": "Solved Problem"
+          },
+          {
+            "img": "../home/happy.png",
+            "count": "25000",
+            "title": "Happy Customer"
+          },
+          {
+            "img": "../home/project.png",
+            "count": "360452",
+            "title": "Projects"
+          }
+        ],
+        "FeaturedProject": [
+          {
+            "img": "../home/Mask(3).png",
+            "title": "App Redesign",
+            "date": "App Design - June 20, 2022"
+          },
+          {
+            "img": "../home/Mask(4).png",
+            "title": "Redesign Channel Website Landing Page",
+            "date": "App Design - June 20, 2022"
+          },
+          {
+            "img": "../home/Mask(5).png",
+            "title": "Redesign Channel Website Landing Page",
+            "date": "App Design - June 20, 2022"
+          },
+          {
+            "img": "../home/Mask(6).png",
+            "title": "Redesign Channel Website Landing Page",
+            "date": "App Design - June 20, 2022"
+          },
+          {
+            "img": "../home/Mask(7).png",
+            "title": "Redesign Channel Website Landing Page",
+            "date": "App Design - June 20, 2022"
+          }
+        ],
+        "company": [
+          {
+            "img": "../home/logos_google.png"
+          },
+          {
+            "img": "../home/Trello-logo-blue 1.png"
+          },
+          {
+            "img": "../home/logos_monday.png"
+          },
+          {
+            "img": "../home/Notion.png"
+          },
+          {
+            "img": "../home/Slack.png"
+          },
+          {
+            "img": "../home/Trello-logo-blue 1.png"
+          }
+        ]
+      }
+    },
+    {
+      "team": {
+        "teamMember": [
+          {
+            "title": "Devon Lane",
+            "img": "../team/Rectangle 2093.png"
+          },
+          {
+            "title": "Danny Bailey",
+            "img": "../team/Rectangle 2093(1).png"
+          },
+          {
+            "title": "Alex Lov",
+            "img": "../team/Rectangle 2093(2).png"
+          }
+        ]
+      }
+    },
+    {
+      "service": [
+        {
+          "title": "BUILD & LAUNCH WITHOUT PROBLEMS",
+          "desc": "Increase your teams productivity and save time with a bot that answers and fields customer inquiries",
+          "img1": "../services/Rectangle 2095.png",
+          "img2": "../services/Rectangle 2096.png",
+          "img3": "../services/Rectangle 2097.png",
+          "img4": "../services/Rectangle 2098(5).png"
+        },
+        {
+          "title": "BUILD & LAUNCH WITHOUT PROBLEMS",
+          "desc": "Increase your teams productivity and save time with a bot that answers and fields customer inquiries",
+          "img1": "../services/img5.png",
+          "img2": "../services/Rectangle 2096(3).png",
+          "img3": "../services/Rectangle 2097(1).png",
+          "img4": "../services/Rectangle 2098.png"
+        },
+        {
+          "title": "BUILD & LAUNCH WITHOUT PROBLEMS",
+          "desc": "Increase your teams productivity and save time with a bot that answers and fields customer inquiries",
+          "img1": "../services/img9.png",
+          "img2": "../services/Rectangle 2096(2).png",
+          "img3": "../services/img11.png",
+          "img4": "../services/img12.png"
+        },
+        {
+          "title": "BUILD & LAUNCH WITHOUT PROBLEMS",
+          "desc": "Increase your teams productivity and save time with a bot that answers and fields customer inquiries",
+          "img1": "../services/Rectangle 2095(2).png",
+          "img2": "../services/Rectangle 2096(3).png",
+          "img3": "../services/Rectangle 2096(2).png",
+          "img4": "../services/Rectangle 2098(1).png"
+        }
+      ]
+    },
+    {
+      "project": [
+        {
+          "img": "../project/Rectangle 2097.png",
+          "title": "Lorem ipsum dolor sit consectutar"
+        },
+        {
+          "img": "../project/Rectangle 2097(1).png",
+          "title": "Lorem ipsum dolor sit consectutar"
+        },
+        {
+          "img": "../project/Rectangle 2097(2).png",
+          "title": "Lorem ipsum dolor sit consectutar"
+        },
+        {
+          "img": "../project/Rectangle 2097(3).png",
+          "title": "Lorem ipsum dolor sit consectutar"
+        },
+        {
+          "img": "../project/Rectangle 2097(4).png",
+          "title": "Lorem ipsum dolor sit consectutar"
+        },
+        {
+          "img": "../project/Rectangle 2097(5).png",
+          "title": "Lorem ipsum dolor sit consectutar"
+        }
+      ]
+    },
+    {
+      "testomonial": [
+        {
+          "img": "../testomonial/Rectangle 2097.png",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+          "title": "ALICE BRADLEY",
+          "position": "Backend Developer"
+        },
+        {
+          "img": "../testomonial/Rectangle 2097(1).png",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+          "title": "ALICE BRADLEY",
+          "position": "Backend Developer"
+        },
+        {
+          "img": "../testomonial/Rectangle 2097(2).png",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+          "title": "ALICE BRADLEY",
+          "position": "Backend Developer"
+        },
+        {
+          "img": "../testomonial/Rectangle 2097(3).png",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+          "title": "ALICE BRADLEY",
+          "position": "Backend Developer"
+        },
+        {
+          "img": "../testomonial/Rectangle 2097(4).png",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+          "title": "ALICE BRADLEY",
+          "position": "Backend Developer"
+        },
+        {
+          "img": "../testomonial/Rectangle 2097(5).png",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+          "title": "ALICE BRADLEY",
+          "position": "Backend Developer"
+        }
+      ]
+    }
+  ]
+}
